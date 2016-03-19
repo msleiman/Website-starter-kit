@@ -4,11 +4,3 @@
         width: ($i / 10) * 20%;
         float:left;
     }
-}
-
-@for $i from 1 through 100 {
-
-    .padding-#{$i} {
-        padding: #{$i}px;
-    }
-}

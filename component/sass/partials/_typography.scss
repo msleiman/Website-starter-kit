@@ -1,5 +1,18 @@
-@for $index from 1 through 6 {
-  h#{$index}{
-    font: 32px/42px;
-  }
+h1{
+	font-family: $base-font
+}
+h2{
+	font-family: $base-font
+}
+h3{
+font-family: $base-font
+}
+h4{
+ font-family: $base-font
+}
+h5{
+  font-family: $base-font
+}
+h6{
+  font-family: $base-font
 }
